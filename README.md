@@ -1,6 +1,6 @@
 # wassup  
 
-this dumbass wants to learn c, crystal and ruby but doesnt know how lol  
+this dumbass wants to learn (ansi) c, c++, ruby, scala and elixir but doesnt know how lol  
 
 insert 50 emojis here and 200 buzzwords  
 
